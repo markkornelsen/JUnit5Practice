@@ -1,2 +1,5 @@
 .classpath
 .DS_Store
+.project
+junit-platform-console-standalone-1.0.1.jar
+*/target/*
