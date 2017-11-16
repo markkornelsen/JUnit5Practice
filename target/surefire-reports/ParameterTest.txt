@@ -1,29 +1,29 @@
 -------------------------------------------------------------------------------
 Test set: ParameterTest
 -------------------------------------------------------------------------------
-Tests run: 9, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.047 sec <<< FAILURE! - in ParameterTest
-testWithCsvSource(String)  Time elapsed: 0.009 sec  <<< FAILURE!
+Tests run: 9, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.034 sec <<< FAILURE! - in ParameterTest
+testWithCsvSource(String)  Time elapsed: 0.007 sec  <<< FAILURE!
 java.lang.AssertionError: 
 
 Expected: a string containing "1"
      but: was "String2"
 	at ParameterTest.testWithCsvSource(ParameterTest.java:18)
 
-testWithCsvFile(String, String)  Time elapsed: 0.001 sec  <<< FAILURE!
+testWithCsvFile(String, String)  Time elapsed: 0 sec  <<< FAILURE!
 java.lang.AssertionError: 
 
 Expected: a string containing "H"
      but: was "Thing"
 	at ParameterTest.testWithCsvFile(ParameterTest.java:32)
 
-testWithCsvFile(String, String)  Time elapsed: 0.001 sec  <<< FAILURE!
+testWithCsvFile(String, String)  Time elapsed: 0 sec  <<< FAILURE!
 java.lang.AssertionError: 
 
 Expected: a string containing "H"
      but: was "1"
 	at ParameterTest.testWithCsvFile(ParameterTest.java:32)
 
-testWithStream(String)  Time elapsed: 0 sec  <<< FAILURE!
+testWithStream(String)  Time elapsed: 0.001 sec  <<< FAILURE!
 java.lang.AssertionError: 
 
 Expected: a string containing "1"
