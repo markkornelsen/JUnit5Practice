@@ -18,7 +18,7 @@ Other examples on github: <https://github.com/pszerszen/junit5-examples>
 - *note the colon (:) used to separate the directories containing the test classes and the classes under tests*
 
 #### Maven
-- The surefire plug-in configure in the pom file allows maven to run JUnit5 tests as expected with ```mvn clean test```
+- The surefire plug-in configured in the pom file allows maven to run JUnit5 tests with ```mvn clean test```
 
 ## New Annotations
 
