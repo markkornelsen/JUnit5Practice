@@ -1,5 +1,4 @@
-NestedTests$SuperHeroWriterTests.class
-ParameterTests.class
-DynamicTests.class
-NestedTests$MathWriterTests.class
-NestedTests.class
+NestedTest$MathWriterTests.class
+NestedTest$SuperHeroWriterTests.class
+NestedTest.class
+ParameterTest.class

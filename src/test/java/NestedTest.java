@@ -12,7 +12,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 
 import com.example.Writer;
 
-class NestedTests {
+class NestedTest {
 	private Writer writer;
 
 	@BeforeEach

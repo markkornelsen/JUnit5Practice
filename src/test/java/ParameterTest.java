@@ -9,7 +9,7 @@ import org.junit.jupiter.params.provider.CsvFileSource;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.MethodSource;
 
-class ParameterTests {
+class ParameterTest {
 
 	@DisplayName("get test parameters from string array")
 	@ParameterizedTest
